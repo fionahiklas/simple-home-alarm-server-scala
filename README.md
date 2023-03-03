@@ -1,0 +1,1 @@
+# simple-home-alarm-server-scala
