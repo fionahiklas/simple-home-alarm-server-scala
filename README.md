@@ -85,22 +85,44 @@ jenv versions
   openjdk64-19.0.2
 ```
 
+#### Running the initial setup
+
+Run the following command
+
+``` 
+sbt run
+```
+
+Then try and hit the endpoint
+
+```
+curl http://localhost:9000/
+```
 
 
 ## References
 
 ### Scala
 
+* [JDK compatibility](https://docs.scala-lang.org/overviews/jdk-compatibility/overview.html)
 * [Dependency injection in Scala](https://di-in-scala.github.io)
 
 ### Sbt
 
+* [Getting started with Scala and sbt](https://docs.scala-lang.org/getting-started/sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html)
+* [sbt template usage](https://www.scala-sbt.org/1.x/docs/sbt-new-and-Templates.html)
+* [sbt running](https://www.scala-sbt.org/1.x/docs/Running.html)
+* [giter8 usage](https://www.foundweekends.org/giter8/usage.html)
+* [giter8 option parsing](https://github.com/foundweekends/giter8/blob/df63ff633c4025df72bc873d454a876fb1d4b395/app/src/main/scala/giter8.scala#L66-L84)
+
 
 ### Play 
 
+* [Getting started](https://www.playframework.com/documentation/2.8.x/HelloWorldTutorial)
 * [Dependency injection in PLay](https://www.playframework.com/documentation/2.8.x/ScalaDependencyInjection)
 * [Compile time dependency injection in play](https://www.playframework.com/documentation/2.8.x/ScalaCompileTimeDependencyInjection)
 
 ### Java
 
+* [brew openjdk](https://formulae.brew.sh/formula/openjdk)
 * [jenv](https://www.jenv.be)
