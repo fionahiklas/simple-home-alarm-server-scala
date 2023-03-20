@@ -1,7 +1,7 @@
 name := """simple-home-alarm-server"""
 organization := "com.hiklas.simple"
 
-version := "1.0.1"
+version := "1.0.2"
 
 lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
