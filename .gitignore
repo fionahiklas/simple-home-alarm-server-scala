@@ -1,6 +1,22 @@
+# Backup files
+*~
+\#*
+*\#
+*.bak
+.\#*
+
+# Temp
+tmp
+temp
+
+# Compiled files
 *.class
-*.log
 target
+
+# Logs
+*.log
+
+# IDE filews
 *.iml
 .idea
 
