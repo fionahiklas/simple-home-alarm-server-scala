@@ -2,11 +2,21 @@
 
 ## Overview
 
-
+Experiments with the Play framework using Scala 
 
 
 
 ## Notes
+
+### Homebrew
+
+#### MacOS
+
+
+#### Linux
+
+Installation of [homebrew on linux](https://docs.brew.sh/Homebrew-on-Linux)
+
 
 ### Project Setup
 
@@ -20,7 +30,6 @@ brew install openjdk@19
 brew install jenv
 brew install scala
 brew install scala@2.13
-
 ```
 
 
