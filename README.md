@@ -5,7 +5,6 @@
 Experiments with the Play framework using Scala 
 
 
-
 ## Notes
 
 ### Homebrew
