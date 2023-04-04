@@ -4,7 +4,6 @@
 
 Experiments with the Play framework using Scala 
 
-
 ## Notes
 
 ### Project Setup
